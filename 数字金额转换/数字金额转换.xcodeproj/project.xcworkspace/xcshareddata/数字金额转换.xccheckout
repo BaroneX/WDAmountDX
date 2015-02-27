@@ -10,29 +10,29 @@
 	<string>数字金额转换</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>90FFF829-DC2C-4BFB-B573-8F2272AD9981</key>
+		<key>75272283FB0E10369D9AEB83F92C85FB9B05AE9B</key>
 		<string>https://github.com/CrazyCodeMan/GitHubCode.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>数字金额转换/数字金额转换.xcodeproj/project.xcworkspace</string>
+	<string>数字金额转换/数字金额转换.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>90FFF829-DC2C-4BFB-B573-8F2272AD9981</key>
+		<key>75272283FB0E10369D9AEB83F92C85FB9B05AE9B</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/CrazyCodeMan/GitHubCode.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>90FFF829-DC2C-4BFB-B573-8F2272AD9981</string>
+	<string>75272283FB0E10369D9AEB83F92C85FB9B05AE9B</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>90FFF829-DC2C-4BFB-B573-8F2272AD9981</string>
+			<string>75272283FB0E10369D9AEB83F92C85FB9B05AE9B</string>
 			<key>IDESourceControlWCCName</key>
 			<string>GitHubCode</string>
 		</dict>
